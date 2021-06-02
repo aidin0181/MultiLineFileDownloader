@@ -9,6 +9,7 @@ so, it gives you a faster speed for downloading.
 features:
 
 1- download files with extentions (example x.com/file.exe).it can't download a redirect link for now)
+
 2- pause / resume , if the web server doesn't support pause/resume, it won't download
 
 i'm gonna add all other features.but since i'm using a pure socket for connecting to servers , it'll take a little bit more time.
