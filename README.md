@@ -15,7 +15,7 @@ features:
  
 ScreenShut:  
 
-![screenshut (17)] (https://github.com/aidin0181/MultiLineFileDownloader/blob/main/Screenshot%20(17).png)
+![screenshut (17)](https://github.com/aidin0181/MultiLineFileDownloader/blob/main/Screenshot%20(17).png)
   
   
 i'm gonna add all other features.but since i'm using a pure socket for connecting to servers , it'll take a little bit more time.  
